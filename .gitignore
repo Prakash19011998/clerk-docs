@@ -45,3 +45,7 @@ yarn.lock
 /docs/docs
 /docs/docs/
 /local-clerk-typedoc
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
